@@ -1,0 +1,10 @@
+charset=iso-8859-1	西欧的编码，英文编码
+charset=gb2312	中文编码
+charset=utf-8	世界通用语言编码
+charset=big5	繁体中文编码
+
+
+常见属性
+
+class
+id
