@@ -8,3 +8,7 @@ charset=big5	繁体中文编码
 
 class
 id
+
+
+
+input不用id 而用name
